@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a new personal portfolio**
 
-- 🌱 I’m currently learning **DSA and Haskell**
+- 🌱 I’m currently learning **DSA, Haskell, and Unity**
 
 - 💬 Ask me about **Python, HTML/CSS, React**
 
