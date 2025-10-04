@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Long Vo</h1>
 <h3 align="center">A passionate software engineer looking to make things easier</h3>
 
-- 🔭 I’m currently working on **a new personal portfolio**
+- 🔭 I’m currently working on **a new personal portfolio and FlappyBird**
 
 - 🌱 I’m currently learning **DSA, Haskell, and Unity**
 
