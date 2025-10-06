@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **longvo.work84@gmail.com**
 
-- 📄 Know about my experiences [Resume Link]([https://drive.google.com/file/d/1rOVlpxOYOe_QYzG2VOkNN4RcJOY5apQF/view?usp=sharing](https://drive.google.com/file/d/1_js9rkMb5iqruMNmEwGz__tZhgMeO0dW/view?usp=sharing))
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1rOVlpxOYOe_QYzG2VOkNN4RcJOY5apQF/view?usp=sharing](https://drive.google.com/file/d/1_js9rkMb5iqruMNmEwGz__tZhgMeO0dW/view?usp=sharing)
 
 - ⚡ Fun fact **I cook, play badminton, and enjoy JRPG**
 
