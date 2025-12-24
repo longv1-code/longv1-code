@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Long Vo</h1>
 <h3 align="center">A passionate software engineer looking to make things easier</h3>
 
-- 🔭 I’m currently working on **a new personal portfolio and FlappyBird**
+- 🔭 I’m currently working on **a new personal portfolio and a winter project**
 
-- 🌱 I’m currently learning **DSA, Haskell, and Unity**
+- 🌱 I’m currently learning **DSA and Unity**
 
 - 💬 Ask me about **Python, HTML/CSS, React**
 
 - 📫 How to reach me **longvo.work84@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1_js9rkMb5iqruMNmEwGz__tZhgMeO0dW/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/12xMFrh6UY78aFBnLfsENWPqMBsqZfBZD/view?usp=sharing)
 
-- ⚡ Fun fact **I cook, play badminton, and enjoy JRPG**
+- ⚡ Fun fact **I cook, play badminton, and enjoy JRPG. Currently playing FFVII Remake.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
