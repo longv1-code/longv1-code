@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Long Vo</h1>
 <h3 align="center">A passionate software engineer looking to make things easier</h3>
 
-- 🔭 I’m currently working on **a new personal portfolio and an org website**
+- 🔭 I’m currently working on **an AI-powered anime recommender website**
 
-- 🌱 I’m currently learning **DSA and Unity**
+- 🌱 I’m currently learning **Python backend and more on React**
 
 - 👨‍💻 All of my projects are available at [https://longv.me](https://longv.me)
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12xMFrh6UY78aFBnLfsENWPqMBsqZfBZD/view?usp=sharing](https://drive.google.com/file/d/12xMFrh6UY78aFBnLfsENWPqMBsqZfBZD/view?usp=sharing)
 
-- ⚡ Fun fact **I cook, play badminton, and enjoy JRPG. Currently playing FFVII Remake.**
+- ⚡ Fun fact **I cook, play badminton, and enjoy JRPG. Currently playing FFXVI.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
