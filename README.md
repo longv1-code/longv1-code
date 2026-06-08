@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Long Vo</h1>
 <h3 align="center">A passionate software engineer looking to make things easier</h3>
 
-- 🔭 I’m currently working on **an AI-powered anime recommender website**
+- 🔭 I’m currently working on **a Gamified Debt Reduction**
 
 - 🌱 I’m currently learning **Python backend and more on React**
 
 - 👨‍💻 All of my projects are available at [https://longv.me](https://longv.me)
 
-- 💬 Ask me about **Python, HTML/CSS, React**
+- 💬 Ask me about **Full-Stack**
 
 - 📫 How to reach me **longvo.work84@gmail.com**
 
