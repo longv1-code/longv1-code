@@ -14,7 +14,6 @@ All projects (with writeups on the *why*, not just the *what*): **[longv.me](htt
 ### Currently
 - 🧩 Deep in system design prep and DSA (NeetCode 150) targeting new-grad SWE roles
 - 🎓 Computer Engineering @ Texas A&M, graduating May 2027
-- 🛠 Leading dev on Suture the Future, agile lead @ Aggie Coding Club
 
 ### Reach me
 📫 longvo.work84@gmail.com · 📄 [Resume](https://drive.google.com/file/d/12xMFrh6UY78aFBnLfsENWPqMBsqZfBZD/view?usp=sharing)
