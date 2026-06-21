@@ -3,7 +3,7 @@
 I build full-stack apps where the *mechanics* mirror the *problem* — right now that means turning debt repayment into an RPG, because spreadsheets don't make anyone want to pay down a loan, but a boss fight might.
 
 ### What I'm building
-**[Debt Dungeon](https://longv.me)** — a gamified debt tracker (React + Express + PostgreSQL/Prisma) where paying off principal deals damage to a boss, with Stripe-backed progression and Clerk auth. Designed and built solo: schema, API, game-state logic, and a custom pixel-art UI system (no component library, no Tailwind — hand-built design tokens because I wanted full control over how the game *felt*).
+**[Debt Dungeon](https://github.com/longv1-code/debt-dungeon)** — a gamified debt tracker (React + Express + PostgreSQL/Prisma) where paying off principal deals damage to a boss, with Stripe-backed progression and Clerk auth. Designed and built solo: schema, API, game-state logic, and a custom pixel-art UI system (no component library, no Tailwind — hand-built design tokens because I wanted full control over how the game *felt*).
 
 Also shipped:
 - **AniVibe** — FastAPI + React anime recommender using Gemini for natural-language-to-SQL search and semantic reranking over the Jikan API
